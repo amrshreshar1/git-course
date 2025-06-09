@@ -1,4 +1,4 @@
-# git-course
+# gitrepo
 zero git course
 
 ## project notes
